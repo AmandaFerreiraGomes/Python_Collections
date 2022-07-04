@@ -1,2 +1,2 @@
-# Python_Collections
-Repositório com scripts que usam coleções.
+# Python Collections
+Repositório com scripts que usam coleções de python.
