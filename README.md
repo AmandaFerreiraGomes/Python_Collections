@@ -1,2 +1,2 @@
 # Python Collections
-Repositório com scripts que usam coleções de python.
+Repositório com jupyter notebooks que usam coleções de python.
